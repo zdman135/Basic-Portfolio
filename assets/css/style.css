@@ -2,6 +2,9 @@
 
 html, body {
     height: 100%;
+    background-image: url("../images/little_triangles.png");
+    background-position: 50% 50%;
+    background-repeat: repeat;
 }
 /* ALL SECTIONS */
 body {
