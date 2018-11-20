@@ -88,8 +88,12 @@ section {
     font-family: Georgia, Times, 'Times New Roman', serif;
 }
 
-hr {
+.main {
+    border-color: #dddddd;
+}
 
+hr {
+    color: #777777;
 }
 
 
